@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Consulta FIPE</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <a href="https://www.instagram.com/jairomotospb" target="_blank">
+      <img src="/assets/img/logo_azul.png" alt="Logo JairoMotos" />
+    </a>
+
+    <h2>Consulta FIPE</h2>
+
+    <label>Tipo:</label>
+    <select id="tipo">
+      <option value="carros">Carro</option>
+      <option value="motos">Moto</option>
+      <option value="caminhoes">Caminhão</option>
+    </select>
+
+    <label>Marca:</label>
+    <select id="marca"></select>
+
+    <label>Modelo:</label>
+    <select id="modelo"></select>
+
+    <label>Ano:</label>
+    <select id="ano"></select>
+
+    <button id="buscar">Consultar</button>
+
+    <div id="resultado"></div>
+
+    <script src="/src/popup.js"></script>
+  </body>
+</html>
