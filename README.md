@@ -15,13 +15,13 @@ Extensão de navegador desenvolvida pela **JairoMotos** para facilitar consultas
 
 ## 🚀 Instalação
 
-### Opera (Disponível)
+### Opera (Aguardando moderação)
 
 1. Acesse a página oficial da extensão no Opera Add-ons (link abaixo).
 2. Clique em **Adicionar ao Opera**.
 3. O ícone da extensão aparecerá na barra do navegador.
 
-➡️ **[Baixar Extensão no Opera]()**
+➡️ (Link em breve)
 
 ### Outros Navegadores (Em breve)
 
